@@ -1,0 +1,110 @@
+SEO — CO ZROBIĆ, ŻEBY BYĆ WYSOKO W GOOGLE
+=========================================
+Kolejność ma znaczenie. Punkt 1 daje najwięcej, punkt 5 najmniej.
+
+--------------------------------------------------------------
+1. WIZYTÓWKA GOOGLE (Profil Firmy) — TU JEST 80% RUCHU
+--------------------------------------------------------------
+Ludzie nad morzem nie wpisują nazw firm. Wpisują "lody w pobliżu",
+"kawiarnia Rewa" i klikają w mapę. Wygrywa wizytówka, nie strona.
+
+Zrób dziś:
+  [ ] W polu "Witryna" wklej adres swojej strony.
+  [ ] Kategoria główna: Lodziarnia.
+      Dodatkowe: Kawiarnia, Deserownia, Kafeteria.
+  [ ] Uzupełnij WSZYSTKIE atrybuty: miejsca na zewnątrz, na wynos,
+      przyjazne dzieciom, dostęp dla wózków, płatność kartą/BLIK.
+  [ ] Opis firmy (możesz wkleić):
+
+      Sezonowa kawiarnia i lodziarnia w Rewie, około 50 metrów od plaży.
+      Lody w rożku i kubku, gofry belgijskie wypiekane po zamówieniu,
+      desery lodowe, granita, kawa oraz lodoburger - lody zamknięte
+      w pączku. Ciasta i jagodzianki wypiekamy na miejscu.
+      Zapraszamy do ogródka przy ul. Morskiej 32.
+
+  [ ] Godziny otwarcia + godziny specjalne (majówka, Boże Ciało,
+      koniec sezonu). Błędne godziny to najczęstszy powód złych opinii.
+
+Rób co tydzień w sezonie:
+  [ ] 2-3 nowe zdjęcia (Google promuje aktywne wizytówki)
+  [ ] 1 "Post" - nowość, promocja, "dziś świeże jagodzianki"
+  [ ] Odpowiedz na KAŻDĄ opinię, także złą, spokojnie i krótko
+
+--------------------------------------------------------------
+2. OPINIE — DRUGI NAJWAŻNIEJSZY CZYNNIK
+--------------------------------------------------------------
+Masz 4,9 przy 74 opiniach. Konkurencja w Gdyni ma po 300+.
+Cel: +30 opinii w sezonie.
+  [ ] Wydrukuj kod QR do wystawienia opinii i postaw przy kasie
+      (w wizytówce Google: "Poproś o opinie" -> gotowy link).
+  [ ] Mów o tym przy wydawaniu deseru. Prosta wersja:
+      "Jak smakowało, wpadnij z opinią, bardzo nam to pomaga."
+  [ ] Nigdy nie kupuj opinii - Google to wykrywa i obcina zasięg.
+
+--------------------------------------------------------------
+3. SEARCH CONSOLE — ŻEBY GOOGLE ZOBACZYŁO STRONĘ
+--------------------------------------------------------------
+  [ ] search.google.com/search-console -> dodaj domenę
+  [ ] Wklej adres sitemapy: https://twojadomena.pl/sitemap.xml
+  [ ] "Sprawdzenie adresu URL" -> "Poproś o zaindeksowanie"
+      dla każdej podstrony (5 sztuk)
+  [ ] Zajrzyj tam za miesiąc: zobaczysz, na jakie frazy wchodzą
+      ludzie. To najlepsza podpowiedź, o czym pisać dalej.
+
+--------------------------------------------------------------
+4. LINKI Z LOKALNYCH STRON (tzw. cytowania)
+--------------------------------------------------------------
+Google ufa firmie, którą widzi w wielu miejscach z TYMI SAMYMI
+danymi. Nazwa, adres i godziny muszą być wszędzie identyczne:
+"Słodki Chłód WHC, ul. Morska 32, 81-198 Rewa".
+
+  [ ] Instagram - link w bio
+  [ ] Facebook - pole "Strona internetowa" + adres i godziny
+  [ ] Apple Maps (Apple Business Connect) - darmowe, mało kto to robi
+  [ ] Bing Places
+  [ ] TripAdvisor
+  [ ] Strona gminy Kosakowo / lokalne portale o Rewie i Zatoce Puckiej
+  [ ] Pensjonaty i noclegi w Rewie i Mechelinkach - poproś o link
+      w zakładce "co w okolicy", zaproponuj rabat dla ich gości
+  [ ] Lokalne grupy na Facebooku (Rewa, Kosakowo, Mechelinki)
+
+--------------------------------------------------------------
+5. STRONA — TO JUŻ ZROBIONE
+--------------------------------------------------------------
+  - dane firmy w formacie schema.org (adres, godziny, mapa, menu,
+    Instagram, Facebook) na każdej podstronie
+  - sekcja pytań i odpowiedzi oznaczona jako FAQ dla Google
+  - osobne tytuły i opisy każdej podstrony pod frazy:
+    "lody Rewa", "kawiarnia Rewa", "gofry nad morzem",
+    "lodziarnia Zatoka Pucka"
+  - opisy zdjęć (alt) z nazwami miejscowości
+  - nazwy plików zdjęć opisowe, nie IMG_1234
+  - podstrona "Okolica" - treść pod wyszukiwarkę: plaża w Rewie,
+    Cypel Rewski, Mechelinki, Kosakowo, dojście z Gdyni
+  - sitemap.xml, robots.txt, adresy kanoniczne
+  - szybkie ładowanie: zmniejszone zdjęcia, wymiary przy każdym
+
+--------------------------------------------------------------
+6. CO ROBIĆ DALEJ, JAK CHCESZ WIĘCEJ
+--------------------------------------------------------------
+  [ ] Raz na miesiąc dopisz krótki tekst na podstronie "Okolica"
+      albo zrób nową, np. "Gdzie z dzieckiem w Rewie",
+      "Rewa poza sezonem". 300-500 słów WŁASNYM tekstem.
+  [ ] Nie rób osobnych podstron typu "lody Mechelinki",
+      "lody Kosakowo" z tym samym tekstem i podmienioną nazwą.
+      Google traktuje to jako spam i obniża całą stronę.
+  [ ] Wersja angielska - turyści z zagranicy szukają
+      "ice cream Rewa". Powiedz, to dorobię.
+  [ ] Zdjęcia rób w pionie i przy dziennym świetle -
+      lepiej wyglądają i na wizytówce, i na stronie.
+
+--------------------------------------------------------------
+CZEGO NIE ROBIĆ
+--------------------------------------------------------------
+  - nie kupuj "pozycjonowania" od firm dzwoniących z ofertą
+  - nie kupuj linków ani opinii
+  - nie kopiuj tekstów z innych stron
+  - nie zmieniaj adresu ani nazwy firmy w kółko
+
+REALNY CZAS EFEKTÓW: wizytówka działa od razu, strona potrzebuje
+1-3 miesięcy, żeby Google ją porządnie zaindeksowało i zaufało.

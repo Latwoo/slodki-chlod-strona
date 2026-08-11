@@ -1,0 +1,76 @@
+SŁODKI CHŁÓD WHC — strona internetowa
+=====================================
+
+CO TU JEST
+  index.html      strona główna (oferta, misja, galeria, FAQ)
+  menu.html       menu
+  historia.html   historia + misja
+  kontakt.html    kontakt, godziny, mapa dojazdu
+  404.html        strona błędu
+  css/style.css   wygląd
+  js/main.js      menu na telefonie + animacje
+  img/            zdjęcia i logo
+  sitemap.xml     mapa strony dla Google
+  robots.txt      zgoda dla robotów Google
+
+Zdjęcia, które przysłałeś, są już wstawione i zmniejszone tak, żeby strona
+szybko się ładowała. Logo wycięte z PDF-a jest w img/logo.png (ciemne, do
+jasnych teł) i img/logo-jasne.png (do stopki na granacie).
+
+1. PODMIEŃ DOMENĘ
+   W plikach HTML, w sitemap.xml i robots.txt jest adres https://slodkichlod.pl
+   Jeśli kupisz inną domenę, zamień wszystkie wystąpienia na swoją
+   (Notatnik / VS Code: Ctrl+H, zamień wszystko).
+
+2. SPRAWDŹ TREŚCI
+   - godziny otwarcia (wzięte z Twojej wizytówki Google)
+   - menu.html — dopisz albo usuń pozycje, cen celowo nie ma
+   - teksty o misji na stronie głównej i w historii — napisane tak,
+     jak to opowiadałeś, ale przeczytaj i popraw pod siebie
+   - ocena 4,9 i liczba opinii (74) — to się zmienia, warto odświeżać
+
+3. ŻEBY PODMIENIĆ ZDJĘCIE
+   Wrzuć nowy plik do folderu img/ pod tą samą nazwą co stary.
+   Nazwy mówią, co jest na zdjęciu, np. gofr-truskawki.jpg,
+   lodoburger-przekroj.jpg, hero-kawiarnia-rewa.jpg.
+   Przed wrzuceniem zmniejsz zdjęcie do maks. 1600 px szerokości.
+
+4. SKĄD SĄ ZDJĘCIA
+   Wszystkie zdjęcia są Twoje, poza dwoma:
+   - img/granita.jpg — zdjęcie z serwisu Pexels (licencja Pexels: wolno
+     używać komercyjnie, bez podawania autora). Zapisz sobie link do tego
+     zdjęcia na Pexels, gdyby ktoś kiedyś pytał.
+   - img/milkshake.jpg — kadr z opinii klienta w Google. Warto przy okazji
+     strzelić własne i podmienić plik pod tą samą nazwą.
+
+5. JAK WRZUCIĆ DO SIECI
+   Strona jest statyczna (bez bazy danych), więc działa na każdym hostingu.
+   Najprościej i za darmo: Netlify albo Cloudflare Pages — wchodzisz,
+   przeciągasz cały folder, dostajesz działający adres, potem podpinasz
+   własną domenę.
+   Klasycznie: dowolny hosting (cyber_Folks, home.pl) — wrzucasz zawartość
+   folderu przez FTP do katalogu public_html.
+
+6. ŻEBY GOOGLE ZACZĘŁO POKAZYWAĆ STRONĘ (to działa najmocniej)
+   a) Wizytówka Google (Profil Firmy) — stamtąd przyjdzie większość ruchu:
+      - dodaj adres strony w polu "Witryna"
+      - kategorie: Lodziarnia, Kawiarnia, Deserownia
+      - wrzucaj zdjęcia co tydzień w sezonie
+      - odpowiadaj na wszystkie opinie
+      - dodawaj "Posty" (nowości, godziny, koniec sezonu)
+   b) Google Search Console (search.google.com/search-console) — dodaj
+      domenę, wklej adres sitemap.xml, poproś o zaindeksowanie stron.
+   c) Wstaw link do strony wszędzie: Instagram w bio, Facebook, portale
+      o Rewie i gminie Kosakowo, noclegi w okolicy. Linki z lokalnych
+      stron liczą się najbardziej.
+   d) Strona jest już przygotowana pod wyszukiwarkę: dane firmy w formacie
+      schema.org, sekcja pytań i odpowiedzi, opisy zdjęć (alt), osobne
+      tytuły i opisy każdej podstrony, sitemap i robots.
+   e) Nie kopiuj tekstów z innych stron — Google to wyłapuje.
+
+7. CO WARTO DOŁOŻYĆ PÓŹNIEJ
+   - wersja angielska
+   - podstrona z alergenami (masz już kartę)
+   - galeria z Instagrama
+   - krótki wpis raz na sezon, np. "Gdzie zjeść lody w Rewie" — takie
+     teksty ciągną wejścia z Google przez całe lato
