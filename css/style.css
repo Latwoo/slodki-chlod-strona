@@ -192,6 +192,17 @@ section{padding:clamp(56px,8vw,104px) 0}
 .os__rok{font-size:.8rem;letter-spacing:.18em;text-transform:uppercase;color:var(--stal)}
 .os__punkt h3{margin:6px 0 10px}
 .os__punkt p{color:var(--tekst-jasny);max-width:60ch;margin:0}
+.os__punkt--dalej::before{background:transparent;border:2px solid var(--czerwien);opacity:.55}
+.os__punkt--dalej{padding-bottom:6px}
+.os__kropki{display:flex;gap:7px;margin:2px 0 14px}
+.os__kropki span{width:7px;height:7px;border-radius:50%;background:var(--czerwien);opacity:.28;
+  animation:kropka 1.8s ease-in-out infinite}
+.os__kropki span:nth-child(2){animation-delay:.25s}
+.os__kropki span:nth-child(3){animation-delay:.5s}
+@keyframes kropka{0%,100%{opacity:.22;transform:translateY(0)}50%{opacity:.7;transform:translateY(-2px)}}
+
+/* kotwice pod przyklejonym naglowkiem */
+section[id]{scroll-margin-top:96px}
 
 /* ---------- Stopka ---------- */
 .stopka{background:var(--granat);color:rgba(255,255,255,.75);padding:clamp(44px,6vw,72px) 0 32px;font-size:.95rem}
