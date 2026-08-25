@@ -146,6 +146,7 @@ section{padding:clamp(56px,8vw,104px) 0}
 .ocena{display:flex;flex-wrap:wrap;align-items:center;gap:18px 28px;
   background:var(--papier);border:1px solid rgba(20,40,58,.1);border-radius:var(--r);padding:26px 28px}
 .ocena__nota{font-size:3rem;font-weight:600;line-height:1;color:var(--granat)}
+.ocena__prefiks{display:block;font-size:.85rem;font-weight:500;letter-spacing:.08em;text-transform:uppercase;opacity:.6;margin-bottom:2px}
 .gwiazdki{color:var(--czerwien);letter-spacing:.15em;font-size:1.1rem}
 
 /* FAQ */
